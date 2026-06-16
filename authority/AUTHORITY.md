@@ -1,24 +1,26 @@
-# JETservices Authority File
+# ACODEMA IA Authority Ladder
 
-**Repository:** `cosmosambassador/JETservices`  
-**Path:** `authority/AUTHORITY.md`  
-**Authority Status:** Primary command authority record  
-**Date Placed:** 2026-06-15  
-**Updated:** 2026-06-16  
+## Allied Command Report Note
+
+**Record Title:** Command Placement — AUTHORITY.md First-Save Order  
+**Status:** Locked as repository placement instruction.  
+**Primary Repository:** `cosmosambassador/JETservices`  
+**File Path:** `authority/AUTHORITY.md`  
+**GitHub Commit Target:** `cosmosambassador/JETservices/authority/AUTHORITY.md`  
+**Commit Message:** `Add ACODEMA IA authority ladder`
+
+---
 
 ## Command Placement
 
-Save first as:
+This record is designated for first-save placement in the primary JET SERVICES repository.
 
-```text
-authority/AUTHORITY.md
-```
+**Primary Repository:** `cosmosambassador/JETservices`  
+**Required Path:** `authority/AUTHORITY.md`  
+**Record Function:** ACODEMA IA Authority Ladder placement file  
+**Placement Status:** First-save instruction locked
 
-inside:
-
-```text
-cosmosambassador/JETservices
-```
+---
 
 ## Operating Authority
 
@@ -27,6 +29,24 @@ TJ Morris is the Human Source Authority and final approval point.
 JET assists with sorting, drafting, routing, and preserving cleared command records.
 
 The `JETservices` repository is the first-stop command-log and authority-routing lane before material is copied, adapted, or routed into secondary repositories, websites, books, public archive pages, or private verification lanes.
+
+---
+
+## Command Rule
+
+Save first in `JETservices`.
+
+Do not mirror outward until TJ approval confirms the record is cleared.
+
+---
+
+## Clearance Statement
+
+TJ approves.  
+JET routes.  
+GitHub preserves only cleared records.
+
+---
 
 ## Routing Rule
 
@@ -38,33 +58,16 @@ Clean command line:
 
 ---
 
-# Allied Command Report Note
+## Record-Control Note
 
-**Record Title:** Command Placement — `AUTHORITY.md` First-Save Order  
-**Status:** Locked as repository placement instruction.  
+This file establishes repository placement and clearance routing for the ACODEMA IA Authority Ladder record.
 
-## Command Placement
+This document does not independently verify authority, ownership, restricted-access status, security clearance, government affiliation, operational participation, or historical command status. Any such claims require separate documentary corroboration before public-facing use.
 
-**Primary Repository:** `cosmosambassador/JETservices`  
-**File Path:** `authority/AUTHORITY.md`  
-**Status:** First-save location for the ACODEMA IA Authority Ladder  
+---
 
-## GitHub Commit Target
+## Repository Preservation Rule
 
-```text
-cosmosambassador/JETservices/authority/AUTHORITY.md
-```
+Cleared records may be preserved in GitHub after TJ approval.
 
-## Commit Message
-
-```text
-Add ACODEMA IA authority ladder
-```
-
-## Command Rule
-
-Save first in `JETservices`.
-
-Do not mirror outward until TJ approval confirms the record is cleared.
-
-> TJ approves. JET routes. GitHub preserves only cleared records.
+Uncleared, sensitive, private, restricted-claim, or personally identifying records should remain outside public repositories unless reviewed and approved for release.
